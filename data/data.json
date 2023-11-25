@@ -1,4 +1,12 @@
 {
+    "name": "Dathan Hansell",
+    "title": "Software Engineer",
+    "position": "internship",
+    "hook": "Hard-working, detail-oriented person that loves tinkering and learning new skills.",
+    "strength": "problem solving, communication, and teamwork",
+    "company": "company",
+    "additionalInfo": "",
+    "desc": "${hook} With my strengths in ${strength}, I am seeking a ${title} ${position} at ${company}, where I can apply my skills and contribute to the team. ${additionalInfo}",
     "experiences": [
         {
             "title": "Innovate to Grow 2023",
@@ -38,7 +46,10 @@
     "skills": [
         {
             "languages": [
-                ""
+                "Python",
+                "JS",
+                "C#",
+                "C++"
             ],
             "notes": [
                 ""

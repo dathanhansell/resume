@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.yellow-box {
+    background-color: rgb(255, 255, 176);
+    width: 100px;
+    height: 45vh; /* adjust this value to your liking */
+    margin-right: 0px;
+    margin-top: 285px;
+}
+
+.right-container {
+    flex-grow: 1;
+}
+
+.header {
+    padding: 10px;
+}
+.header p {
+    line-height: 2;
+    margin-right: 100px;
+}
+
+.header h1 {
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.description {
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.content {
+    display: flex;
+}
+
+.main, .sidebar {
+    flex: 1;
+    padding: 10px;
+}
+.sidebar h2 {
+    border-bottom: 2px solid gray;
+    width: 75%;
+
+}
+.sidebar  {
+    margin-left: 30px;
+}
+.sidebar li {
+    width: 75%;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+li {
+    line-height: 1.4;
+    margin-bottom: 10px;
+}  

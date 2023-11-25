@@ -1,0 +1,80 @@
+{
+    "experiences": [
+        {
+            "title": "Innovate to Grow 2023",
+            "period": "Jan 2023 - May 2023",
+            "tasks": [
+                "Worked in a team of 5 to develop a machine learning based rodent detection system for Agrecom pest control.",
+                "Created a Flask based web interface to display and send data to a Google Firebase database"
+            ]
+        },
+        {
+            "title": "Student Digitization Assistant",
+            "period": "Jun 2022 - Present",
+            "tasks": [
+                "Worked in a professional office environment with high quality expectations",
+                "Worked with enterprise grade equipment and server software to complete digitization tasks"
+            ]
+        },
+        {
+            "title": "Freelance Audio Engineering - Casting Call Club",
+            "period": "Dec 2020 - Aug 2021",
+            "tasks": [
+                "Worked and coordinated with clients on projects to determine what sounds needed to be created and worked with them on any changes.",
+                "Worked under deadlines to produce and submit quality work."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "period": "Aug 2019 - Dec 2023",
+            "major": "Computer Science and Engineering",
+            "school": "University of California, Merced",
+            "notes": [
+                "Received UC Regents Scholarship for academic excellence"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "languages": [
+                ""
+            ],
+            "notes": [
+                ""
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "2DLevelEditor",
+            "link": "https://github.com/dathanhansell/2DLevelEditor"
+        },
+        {
+            "name": "ScheduleScanner",
+            "link": "https://github.com/dathanhansell/ScheduleScanner"
+        },
+        {
+            "name": "eyemouse_tracker",
+            "link": "https://github.com/dathanhansell/eyemouse_tracker"
+        }
+    ],
+    "Info": [
+        {
+            "links": [
+                {
+                    "name": "Github",
+                    "link": "https://github.com/dathanhansell"
+                },
+                {
+                    "name": "LinkedIn",
+                    "link": "https://www.linkedin.com/in/dathan-h-85370811b/"
+                },
+                {
+                    "name": "dathanhansell@gmail.com",
+                    "link": "dathanhansell@gmail.com"
+                }
+            ]
+        }
+    ]
+}
